@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T04:54:41.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="DHLkLvXMZUY2CnPQKMtH" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-29T05:30:53.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="leEQ2XtfVxvgelAsvja-" version="14.1.2" type="github">
   <diagram id="m9POgIwkqAb_LojYKIme" name="Page-1">
     <mxGraphModel dx="1955" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,8 +225,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G5U9MnTbbKpaJaXf1P4b-97" value="환불결의서생성" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="710" width="120" height="60" as="geometry" />
+        <mxCell id="G5U9MnTbbKpaJaXf1P4b-97" value="환불결의서생성&lt;br&gt;\및 미결계정 정산처리" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1222.5" y="710" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5U9MnTbbKpaJaXf1P4b-100" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="660" width="40" height="20" as="geometry" />
